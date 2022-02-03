@@ -92,12 +92,6 @@ annotations:
     span:
       start: 15883
       end: 16131
-  43c14f9da7424329a27c9316ca9c96bf:
-    imgnum: 1581
-    reference: ''
-    span:
-      start: 16133
-      end: 16144
 local_ids:
   04d89d4583324d63b3e2afa5200af633: 200000
   9f046b8e88414d439fda0e97d56789a9: 200001
@@ -112,4 +106,3 @@ local_ids:
   ba7b2c85bb6f4a0a9482e38fd8915a9b: 200010
   038fd5f0e0de454bac26b763300be402: 200011
   3a6dd658d9af4535b3d1914966a05d8a: 200012
-  43c14f9da7424329a27c9316ca9c96bf: 200013
