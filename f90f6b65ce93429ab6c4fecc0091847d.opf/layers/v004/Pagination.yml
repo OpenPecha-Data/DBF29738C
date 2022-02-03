@@ -7,77 +7,77 @@ annotations:
     reference: ''
     span:
       start: 0
-      end: 727
+      end: 728
     note_ref: 5858856a69d049fe86033fba40d8544c
   1be648d2bce947a28c51189b3f9d82e8:
     imgnum: 1569
     reference: ''
     span:
       start: 730
-      end: 2159
+      end: 2160
     note_ref: 5858856a69d049fe86033fba40d8544c
   e5fb66ee61ee483e9b647982a3b111a7:
     imgnum: 1570
     reference: ''
     span:
       start: 2162
-      end: 3492
+      end: 3493
     note_ref: 5858856a69d049fe86033fba40d8544c
   df809e4b1f394c6e8d43690b09f179bf:
     imgnum: 1571
     reference: ''
     span:
       start: 3495
-      end: 4721
+      end: 4722
     note_ref: 5858856a69d049fe86033fba40d8544c
   59b1117b1b424459a5e230803992ed32:
     imgnum: 1572
     reference: ''
     span:
       start: 4724
-      end: 6143
+      end: 6144
     note_ref: 5858856a69d049fe86033fba40d8544c
   e0566a859ff94cc68512eac0ab51d89f:
     imgnum: 1573
     reference: ''
     span:
       start: 6146
-      end: 7521
+      end: 7522
     note_ref: 5858856a69d049fe86033fba40d8544c
   6a0ac796722b4e519a9600b6c9473083:
     imgnum: 1574
     reference: ''
     span:
       start: 7524
-      end: 8933
+      end: 8934
     note_ref: 5858856a69d049fe86033fba40d8544c
   eaa9a1cea179426db914c4a2bd821f90:
     imgnum: 1575
     reference: ''
     span:
       start: 8936
-      end: 10392
+      end: 10393
     note_ref: 5858856a69d049fe86033fba40d8544c
   26bef3fec06449f1bf3e16dc445289c5:
     imgnum: 1576
     reference: ''
     span:
       start: 10395
-      end: 11727
+      end: 11728
     note_ref: 5858856a69d049fe86033fba40d8544c
   d6690bbe1d28444499364f369c57ea95:
     imgnum: 1577
     reference: ''
     span:
       start: 11730
-      end: 13041
+      end: 13042
     note_ref: 3bb826187e344f2ebc17513f63db2a9a
   612da73a0ec14be69c9c381183dfa54e:
     imgnum: 1578
     reference: ''
     span:
       start: 13044
-      end: 14404
+      end: 14405
     note_ref: 3bb826187e344f2ebc17513f63db2a9a
   5858856a69d049fe86033fba40d8544c:
     imgnum: 1579
@@ -90,8 +90,8 @@ annotations:
     imgnum: 1580
     reference: ''
     span:
-      start: 15959
-      end: 16186
+      start: 15958
+      end: 16185
 local_ids:
   cef7ad4a27e24599b836e1e1e667d3c9: 200000
   1be648d2bce947a28c51189b3f9d82e8: 200001
